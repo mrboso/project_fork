@@ -1,5 +1,4 @@
 repo: project_upstream
-file: project_upstream_02.txt
+file: patch_A.txt
 
 commit_01_patch_A ...  combined with a handful of model sentence structures
-commit_01_upstream ... All the Lorem Ipsum generators on the Internet
